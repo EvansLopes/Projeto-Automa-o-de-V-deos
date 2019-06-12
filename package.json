@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/EvansLopes/Projeto-Automa-o-de-V-deos/issues"
   },
-  "homepage": "https://github.com/EvansLopes/Projeto-Automa-o-de-V-deos#readme"
+  "homepage": "https://github.com/EvansLopes/Projeto-Automa-o-de-V-deos#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.9"
+  }
 }

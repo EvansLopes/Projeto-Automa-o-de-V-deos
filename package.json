@@ -1,0 +1,19 @@
+{
+  "name": "projeto-automa-o-de-v-deos",
+  "version": "1.0.0",
+  "description": "Repositório para criação de vídeos automatizados com robôs!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EvansLopes/Projeto-Automa-o-de-V-deos.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EvansLopes/Projeto-Automa-o-de-V-deos/issues"
+  },
+  "homepage": "https://github.com/EvansLopes/Projeto-Automa-o-de-V-deos#readme"
+}
